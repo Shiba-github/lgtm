@@ -1,0 +1,2 @@
+# lgtm
+LGTM Generator
